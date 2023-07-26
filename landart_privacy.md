@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacy/
+permalink: /landart_privacy/
 ---
 
+# Privacy Policy
 **We take your privacy very seriously. This policy outlines how we collect, use, and protect your personal information.**
 
 ## Information We Collect:
