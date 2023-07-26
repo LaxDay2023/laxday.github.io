@@ -1,4 +1,4 @@
-# erresen.github.io
+# laxday2023.github.io
 
 This is the code for my blog: [erresen.github.io](https://erresen.github.io)
 
