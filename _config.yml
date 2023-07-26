@@ -1,12 +1,10 @@
 # Site settings
-title: erresen.github.io
+title: laxday2023.github.io
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  a programmer's blog about programming
+  The hosting pages of Lax' Apps
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://erresen.github.io" # the base hostname & protocol for your site
-twitter_username: erresen
-github_username:  erresen
+url: "https://laxday2023.github.io" # the base hostname & protocol for your site
 
 # Build settings
 
